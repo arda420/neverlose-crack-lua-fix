@@ -1,0 +1,11 @@
+{
+    "last_profile": "Pulse Project",
+    "profiles": {
+        "Pulse Project": {
+            "main": "",
+            "lib": "",
+            "out": "pulse_hvh_bundle.lua",
+            "webhook": ""
+        }
+    }
+}
